@@ -6,6 +6,13 @@ My teaching philosophy and selected teaching-related materials.
 
 The `statement/` directory contains my teaching statement.
 
+## Teaching Materials
+
+Th `materials/` directory contains samples of teaching materials I have created.
+Examples of teaching materials that I may place in this directory include
+syllabi, lecture notes, slides, problem sets, solution sets, and templates for
+the above materials.
+
 ## Full Versions of Teaching Portfolios
 
 The `releases/` directory contain past full versions of my teaching portfolio.
