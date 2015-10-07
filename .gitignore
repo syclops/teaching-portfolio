@@ -31,6 +31,9 @@
 *.synctex.gz(busy)
 *.pdfsync
 
+## Also ignore tex source files here:
+*.tex
+
 ## Auxiliary and intermediate files from other packages:
 
 # algorithms
