@@ -20,3 +20,13 @@ These versions were often made for some deadline; for example, the version from
 December 23, 2013 was made for a teaching portfolio project I carried out as
 part of the Future Faculty Program at Carnegie Mellon University. Each version
 is only available in PDF form and named by the date on which it was completed.
+
+## License
+
+![CC BY-SA 4.0 Icon](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+The full license text is also included in the `LICENSE` file.
+
